@@ -176,6 +176,10 @@ div.post-meta div.meta-data {
   div.post-meta div.meta-data a.author:hover {
     color: rgba(0, 0, 0, 0.6); }
 
+a.tag {
+  color: inherit;
+  font-size: 10px; }
+
 div.page-container {
   text-align: center;
   margin-top: 80px; }
