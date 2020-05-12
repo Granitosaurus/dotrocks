@@ -1,8 +1,16 @@
-Medius is a theme for [Pelican](https://github.com/getpelican/pelican). It is
-heavily inspired from [medium](https://medium.com).
+# Dotrocks
+`dotrocks` is a theme for [Pelican](https://github.com/getpelican/pelican). It a minimal feature rich fork of [Medius](https://github.com/onur/medius) theme.
 
-See details and usage information in [demo
-website](https://onur.github.io/medius/medius.html).
+Live usage over http://granitosaurus.rocks:
+
+![Screenshot](./screenshot.png?raw=true)
 
 
-![Screenshot](/screenshot.png?raw=true)
+# Features
+
+* Minimal center focused design
+* Responsive and mobile friendly  
+* Clean and fast  
+* SEO optimized  
+* Tag and category oriented
+
