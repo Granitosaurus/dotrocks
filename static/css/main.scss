@@ -329,6 +329,8 @@ a.tag {
 
 figcaption {
     text-align: center;
+    font-size: smaller;
+    color: slategrey;
 }
 
 div.page-container {
@@ -420,6 +422,8 @@ div.page-container {
 
     div.tags {
         padding: 20px;
+        text-align: right;
+        align-self: center;
 
         @media #{$media-md} {
             padding: 0;
